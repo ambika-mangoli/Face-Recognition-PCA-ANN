@@ -1,6 +1,6 @@
 # Face Recognition using PCA and ANN
 
-## 📌 Project Description
+##  Project Description
 This project implements a Face Recognition System using:
 - PCA (Principal Component Analysis)
 - ANN (Artificial Neural Network)
@@ -9,7 +9,7 @@ The system recognizes faces from a dataset and also detects unknown (imposter) f
 
 ---
 
-## 🚀 Features
+##  Features
 - Face Recognition
 - Eigenface Feature Extraction
 - ANN Classification
@@ -18,7 +18,7 @@ The system recognizes faces from a dataset and also detects unknown (imposter) f
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 - Python
 - OpenCV
 - NumPy
@@ -27,7 +27,7 @@ The system recognizes faces from a dataset and also detects unknown (imposter) f
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### Train Model
 python train.py
@@ -37,14 +37,14 @@ python test.py
 
 ---
 
-## 📊 Results
+## Results
 - Highest Accuracy: 52.22%
 - Best k value: 20
 
 ---
 
-## 📷 Screenshots
-(Upload screenshots in repository)
+##  Screenshots
+(Uploaded screenshots in repository)
 
 ---
 
